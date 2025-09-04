@@ -8,7 +8,7 @@ app = FastAPI()
 def read_root():
     return {
         "method": "GitHub Actions",
-        "message": "Hello everyone from Cloud Run via GitHub Actions!",
+        "message": "Hello everyone from Cloud Run via GitHub Actions!!!!",
         "framework": "FastAPI",
     }
 
